@@ -12,7 +12,7 @@ The point I am trying to make above is that despite our best efforts, we cannot 
 
 There is still a square root on the right-hand side, however, which we could replace with the right-hand side once more to obtain:
 
-![](https://render.githubusercontent.com/render/math?math=\sqrt{2}=1+\frac{1}{2%2B\frac{1}{1%2B\frac{1}{2%2B\frac{1}{1%2B\sqrt{2}}}})
+![](https://render.githubusercontent.com/render/math?math=\sqrt{2}=1%2B\frac{1}{2%2B\frac{1}{2%2B\frac{1}{1+\sqrt{2}}}})
 
 Hopefully, it is clear that the number of times we perform the operation above does not matter.  The expression will always contain a square root of two on the right-hand side.  To find an exact value for root 2 we thus have to imagine that this operation is done an infinite number of times.
 
