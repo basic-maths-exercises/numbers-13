@@ -4,7 +4,7 @@ The decimal representation that has been introduced in the last exercise is one 
 
 We can represent some of the real numbers as fractions.  As we have seen in the previous tasks, the numbers that can be represented in this way are the so-called rational numbers.  Consider the following derivation, however:
 
-![](https://render.githubusercontent.com/render/math?math=\sqrt{2}=1%2B(\sqrt{2}-1)=1%2B\frac{(\sqrt{2}-1)(\sqrt{2}%2B1)}{\sqrt{2}%2B1})
+![](https://render.githubusercontent.com/render/math?math=\sqrt{2}=1%2B(\sqrt{2}-1)=1%2B\frac{(\sqrt{2}-1)(\sqrt{2}%2B1)}{\sqrt{2}%2B1}=1%2B\frac{2-1}{\sqrt{2}%2B1}=1%2B\frac{1}{1%2B\sqrt{2}})
 
 The point I am trying to make above is that despite our best efforts, we cannot extract an expression for the square root of 2, which has the square root of two on the left-hand side and a quotient on the right-hand side.  The best we can do is we can replace the square root of 2 on the right-hand side here with the expression on the right-hand side as follows:
 
