@@ -20,6 +20,8 @@ for i in range(20) :
     yvals[i]=est
 line1 = line(xvals,yvals)
 
+axislabels = ["Iteration", "Estimate"]
+
 class UnitTests(unittest.TestCase) :
     def test_plot(self) :
-        assert(pc.check_plot([line1]))
+        assert(pc.check_plot([line1],explabels=axislabels))

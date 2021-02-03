@@ -7,4 +7,6 @@ for i in range(0,20) :
   # Your code goes here
 
 plt.plot( xvals, yvals, 'ko')
+plt.xlabel("Iteration")
+plt.ylabel("Estimate")
 plt.savefig( "roottwo.png")
